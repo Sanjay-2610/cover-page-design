@@ -137,7 +137,8 @@ Start the django-server
 
 ## Output:
 ### Client Side
-![Client_side][]
-
+![client side](https://github.com/Sanjay-2610/cover-page-design/assets/91368803/37bf3025-0133-491e-9f5c-636b70ef1772)
+### Server Side
+![server_side](https://github.com/Sanjay-2610/cover-page-design/assets/91368803/e8ee0a52-1ce7-4de0-85d1-7de85b37b079)
 ## Result:
 Thus the html displayed the output successfully.
